@@ -11,6 +11,7 @@ En el integrare pruebas de frontend y de backend
  - [TestNG](https://testng.org/)
  - [RestAssure](https://rest-assured.io/)
  - [Selenium](https://www.selenium.dev/)
+ - [JUnit](https://junit.org/)
 
 
 ## Deployment
