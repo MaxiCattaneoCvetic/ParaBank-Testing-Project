@@ -4,7 +4,7 @@
 ParaBank es una plataforma bancaria en línea en la que me encuentro realizando pruebas. Este proyecto constituye una invaluable oportunidad para perfeccionar mis habilidades en el ámbito de pruebas de software utilizando Java.
 En el integrare pruebas de frontend y de backend
 
-![ParaBank Logo](https://github.com/MaxiCattaneoCvetic/ParaBank-Testing-Project/Parabank.png)
+![ParaBank Logo](https://github.com/MaxiCattaneoCvetic/ParaBank-Testing-Project/Parabank.PNG)
 
 ## Tecnologias Utilizadas
 
