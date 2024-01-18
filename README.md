@@ -3,7 +3,7 @@
 
 ParaBank es una plataforma bancaria en línea en la que me encuentro realizando pruebas. Este proyecto constituye una invaluable oportunidad para perfeccionar mis habilidades en el ámbito de pruebas de software utilizando Java.
 En el integrare pruebas de frontend y de backend
-<img src="/Parabank.png">
+<img href="/Parabank.png">
 
 
 ## Tecnologias Utilizadas
