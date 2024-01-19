@@ -7,6 +7,8 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.beust.ah.A;
 import com.example.ParaBankTesting.frontTestPages.RegisterPage;
 import com.example.ParaBankTesting.reports.ExtentFactory;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
