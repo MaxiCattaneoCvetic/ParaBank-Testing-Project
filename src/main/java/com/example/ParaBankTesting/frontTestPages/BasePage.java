@@ -51,11 +51,11 @@ public class BasePage {
     protected void sendKey(CharSequence key, By locator) {
         wait.until(ExpectedConditions.presenceOfElementLocated(locator)); // --> Esperamos a que el locator este presente.
         this.findElementByLocator(locator).sendKeys(key);
+
     }
 
     protected void sendText(String text, By locator) {
         wait.until(ExpectedConditions.presenceOfElementLocated(locator)); // --> Esperamos a que el locator este presente.
-
         WebElement locatorFounded = this.findElementByLocator(locator);
         locatorFounded.clear();
         locatorFounded.sendKeys(text);
